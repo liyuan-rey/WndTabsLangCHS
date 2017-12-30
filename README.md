@@ -1,5 +1,7 @@
 # The Chinese(Simplified) Localization Resources for WndTabs
 
+![WndTabs' UI](./WndTabs.jpg)
+
 [WndTabs] is a cool productivity add-in for Visual C++ 6, extend VC6 by multi-tabbed user experiences. [WndTabs] and [Visual Assist] are the two most favorite addins for me when writing codes using VC6, I can't live without them in early period of my develop life. :smile:
 
 [WndTabs] is develop by Oz Solomonovich, the generous guy opened source code of WndTabs under the MIT license. You could visit the website to get more information.
